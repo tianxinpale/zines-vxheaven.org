@@ -1,1 +1,0 @@
-c:\progra~1\pellesc\bin\polib.exe /DEF:%1.def /OUT:%1.lib /MACHINE:IX86
