@@ -1,7 +1,0 @@
-LIBRARY KbHook
-EXPORTS 
-
-InstallKBHook
-RemoveKBHook
-FileSearchAllFixedDrives
-RecursivScan
